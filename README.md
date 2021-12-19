@@ -21,7 +21,6 @@ Currently, I am a member of the Key Laboratory of Intelligent Perception and Ima
 
 <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF"> 
 
--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilinshao&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
